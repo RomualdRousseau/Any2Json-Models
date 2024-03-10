@@ -1,7 +1,24 @@
 # Any2Json-Models
 
-Repository of basic Models for Any2Json
+Repository of basic models for Any2Json. 
 
-## Models
+## Getting started
+
+You can use these models to load your first documents and create your own models.
+
+### Models
 
 * sales-english
+
+### Documentation
+
+* Find the documentation [here](https://romualdrousseau.github.io/Any2Json-Documents/).
+
+## Authors
+
+* Romuald Rousseau, romuald.rousseau@servier.com
+
+## Version History
+
+* 1.0-SNAPSHOT
+* Initial Release
