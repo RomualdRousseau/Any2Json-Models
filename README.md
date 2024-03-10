@@ -1,5 +1,7 @@
 # Any2Json-Models
 
+![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
+
 Repository of basic models for Any2Json. 
 
 ## Getting started
