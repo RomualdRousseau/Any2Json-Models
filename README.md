@@ -1,6 +1,7 @@
 # Any2Json-Models
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
+![Servier Inspired](https://raw.githubusercontent.com/RomualdRousseau/ServierHub/main/badges/inspired.svg)
 
 Repository of basic models for Any2Json. 
 
